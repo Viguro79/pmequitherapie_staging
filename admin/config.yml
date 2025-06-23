@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Viguro79/pmequitherapie_staging
   branch: gh-pages
-  app_id: Ov23linhWjXASlObrg69
+  base_url: https://sveltia-cms-auth.vincent-guerinrousteau.workers.dev
 
 media_folder: "images"
 public_folder: "/images"
