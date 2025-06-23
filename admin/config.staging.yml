@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Viguro79/pmequitherapie_staging
   branch: gh-pages
-  auth_scope: repo
+  app_id: Ov23li7NLt4kObYbdnOt 
 
 media_folder: "images"
 public_folder: "/images"
