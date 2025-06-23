@@ -3,9 +3,6 @@ backend:
   repo: Viguro79/pmequitherapie_staging
   branch: gh-pages
   auth_scope: repo
-  base_url: https://viguro79.github.io/pmequitherapie_staging
-  auth_endpoint: /api/auth
-  app_id: Ov23li7NLt4kObYbdnOt 
 
 media_folder: "images"
 public_folder: "/images"
