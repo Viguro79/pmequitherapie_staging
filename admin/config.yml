@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: Viguro79/pmequitherapie_staging
   branch: main
 
 media_folder: "images"
