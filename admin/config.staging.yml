@@ -66,3 +66,12 @@ collections:
           - { label: "Titre", name: "title", widget: "string" }
           - { label: "Classe principale", name: "mainClass", widget: "string", required: false }
           - { label: "Contenu", name: "body", widget: "markdown" }
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Classe principale", name: "mainClass", widget: "string", required: false }
+          - { label: "Afficher le formulaire de contact", name: "contactForm", widget: "boolean", required: false }
+          - { label: "Téléphone", name: "phone", widget: "string", required: true }
+          - { label: "Contenu", name: "body", widget: "markdown" }
