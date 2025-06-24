@@ -3,7 +3,6 @@ backend:
   repo: Viguro79/pmequitherapie
   branch: feat/workinprogress
   base_url: https://sveltia-cms-auth.vincent-guerinrousteau.workers.dev
-publish_mode: editorial_workflow
 media_folder: "images"
 public_folder: "/images"
 
