@@ -104,15 +104,5 @@
 	<script src="/pmequitherapie_staging/assets/js/main.js"></script>
 
 
-	<script>
-	document.getElementById('callme').addEventListener('click', function(e){
-		e.preventDefault();
-		this.href = 'tel: 0663865844';
-		let rawPhone = '0663865844'.replace(/\D/g, '');
-		let formattedPhone = rawPhone.replace(/(\d{2})(?=\d)/g, '$1.').replace(/\.$/, '');
-		this.textContent = formattedPhone;
-	});
-	</script>
-
 </body>
 </html>
